@@ -6,10 +6,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-red)
-![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)
+
 
 🚢 Titanic Survival Prediction using Explainable Machine Learning
     
